@@ -1,3 +1,5 @@
 This file was added in test-1-branch.
 
 This text was added in dev-branch
+
+This text was added again in dev-branch
